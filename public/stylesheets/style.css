@@ -11,3 +11,9 @@ body {
 a {
   color: #00B7FF;
 }
+
+transparent {
+  color: white;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
