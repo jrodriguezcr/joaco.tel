@@ -1,8 +1,19 @@
 body {
-  padding: 50px;
+  background-image: url("../images/ahu tahai.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 70 px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+jumbotron {
+  color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
 }
